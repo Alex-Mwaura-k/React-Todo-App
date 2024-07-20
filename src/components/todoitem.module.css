@@ -1,12 +1,12 @@
 .item {
-  width: 500px;
   color: #353935;
   font-size: 20px;
   margin: 0 auto;
+  padding: 10px 0;
 }
 .itemName {
   font-weight: bold;
-  padding: 10px;
+  padding: 5px 0;
 }
 .line {
   border: 1px solid #f4f4f4;
@@ -15,7 +15,7 @@
   float: right;
   padding: 8px 16px;
   border: none;
-  background-color: #f7ca18;
+  background-color: #1d2540;
   color: #ffffff;
   margin-top: -5px;
   border-radius: 4px;

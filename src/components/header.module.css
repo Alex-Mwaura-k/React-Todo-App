@@ -1,5 +1,6 @@
 .header {
-  background-color: #f7ca18;
+  background-color: #1d2540;
+  color: aliceblue;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -7,4 +8,5 @@
   height: 50px;
   font-size: 2em;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  padding: 0 2%;
 }
